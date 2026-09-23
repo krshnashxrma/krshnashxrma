@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**krshnashxrma/krshnashxrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Krishna 👋
 
-Here are some ideas to get you started:
+### Product-minded student building, breaking & learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like taking ideas apart, understanding why products work,<br>
+and building experiments around problems I find interesting.
+
+<br>
+
+`PRODUCT MANAGEMENT` · `AI` · `STARTUPS` · `BUILDING` · `UX` · `ANALYTICS`
+
+</div>
+
+---
+
+### Currently
+
+- 📊 Learning product analytics
+- 🤖 Exploring AI/ML
+- 🧩 Building products
+- ✍️ Writing about product & startups
+
+### What I care about
+
+- ❤️ Solving real problems
+- ✨ Good product design
+- 🎯 User-centric thinking
+- 🚀 Ideas → Experiments → Impact
+
+### Find me around
+
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [X](YOUR_X_URL)
+- [Instagram](YOUR_INSTAGRAM_URL)
+- [Portfolio](YOUR_PORTFOLIO_URL)
