@@ -4,17 +4,17 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/krshnashxrma/">
+<a href="YOUR_LINKEDIN_URL">
   LinkedIn
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 
-<a href="https://x.com/krshnashxrma">
+<a href="YOUR_X_URL">
   X
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/krshnashxrma/">
+<a href="YOUR_INSTAGRAM_URL">
   Instagram
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
